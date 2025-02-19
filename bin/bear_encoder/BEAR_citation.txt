@@ -1,0 +1,5 @@
+Credit for BEAR encoder goes to Eugenio Mattei
+
+Git link: https://github.com/emattei/BEAR_encoder.git
+
+Paper: https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gku283
