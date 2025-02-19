@@ -1,0 +1,12 @@
+
+*.bed
+*.tsv
+DEVELOPMENT_OUTPUT/
+DEVELOPMENT_OUTPUT/*
+*/tmp_files/*
+tmp_files/
+.nextflow.log*
+index/
+null/
+singularity/
+.nextflow/
